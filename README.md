@@ -1,2 +1,0 @@
-# WebProject
-Test for class
